@@ -1,1 +1,3 @@
-"# fastcampus-challenge" 
+## Fastcampus 초격차 패키지 캐시백 챌린지
+
+66일동안 1일1블로깅하고 전액 환급받기
